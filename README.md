@@ -57,7 +57,7 @@ WebUntis does not provide a offical documentation. For JSON RPC usage see this [
 
 ## Support
 
-If you have questions or need assistance, feel free to [open an issue](https://github.com/grp-gg/webuntis_headless/issues) on the GitHub repository.
+If you have questions or need assistance, feel free to [open an issue](https://github.com/Tynobi-Company/webuntis_headless/issues) on the GitHub repository.
 
 ## License
 
